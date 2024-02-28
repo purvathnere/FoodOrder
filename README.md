@@ -11,4 +11,4 @@ calculate the total cost, and enjoy a seamless ordering experience
 ## Usage
 1. Run the `FoodOrderApp` class to launch the application 
 2. Check items from the menu.
-3. Click "Calculate Total" to see the order details and total cost.
+3. Click "Calculate Total" to see the order details and total cost .
