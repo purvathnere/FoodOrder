@@ -2,7 +2,7 @@
 
 ## Description
 This Java application provides a user-friendly food ordering interface where users can select items from a menu, 
-calculate the total cost, and enjoy a seamless ordering experiencee
+calculate the total cost, and enjoy a seamless ordering experience
 ## Feature
 - Checkboxes for item selection
 - "Calculate Total" button for cost calculation
